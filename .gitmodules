@@ -1,0 +1,3 @@
+[submodule "Object_detection_train_test_spilit"]
+	path = Object_detection_train_test_spilit
+	url = https://github.com/malgo1311/Object-Detection-Train-Test-Split.git
